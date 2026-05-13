@@ -133,7 +133,7 @@ input {
 }
 .col-2{
     flex: 0 1 34em;
-    flex: 0 1 45%;
+   
     min-width: 200px;
     margin-bottom: 50px;
     
