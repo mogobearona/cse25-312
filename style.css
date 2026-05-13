@@ -81,14 +81,11 @@ header, section {
     gap: 3em;
 }
 .featured-items img {
-    min-width: 200px
-    max-width: 100%;
+    min-width: 200px;
     border-radius: 1em;
     object-fit: cover;
     object-position: bottom;
 }  
-.col-2 {
-    flex: 0 1 34em;
 }
 footer {
     text-align: center;
